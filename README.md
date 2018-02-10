@@ -11,6 +11,7 @@
 |009|[Palindrome Number][009in]|Easy||[description][009out]|
 |014|[Longest Common Prefix][014in]|Easy|链表|[description][014out]|
 |019|[Remove Nth Node From End of List][019in]|Medium|链表|[description][019out]|
+|020|[Valid Parentheses][020in]|Easy|堆栈|[description][020out]|
 
 
 
@@ -29,3 +30,6 @@
 [014out]: https://leetcode.com/problems/014-Longest-Common-Prefix/description/
 [019in]:  019-Remove-Nth-Node-From-End-of-List
 [019out]: https://leetcode.com/problems/019-Remove-Nth-Node-From-End-of-List/description/
+[020in]:  020-Valid-Parentheses
+[020out]: https://leetcode.com/problems/020-Valid-Parentheses/description/
+
