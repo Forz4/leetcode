@@ -21,6 +21,7 @@
 |039|[Combination-Sum][039in]|Medium|DFS|[description][039out]|
 |040|[Combination Sum II][040in]|Medium|DFS|[description][040out]|
 |046|[Permutations][046in]|Medium|DFS|[description][046out]|
+|047|[Permutations II][047in]|Medium|DFS|[description][047out]|
 
 [001in]:  001-Two-Sum
 [001out]: https://leetcode.com/problems/two-sum/description/
@@ -56,4 +57,6 @@
 [040out]: https://leetcode.com/problems/040-Combination-Sum-II/description/
 [046in]:  046-Permutations
 [046out]: https://leetcode.com/problems/046-Permutations/description/
+[047in]:  047-Permutations-II
+[047out]: https://leetcode.com/problems/047-Permutations-II/description/
 
