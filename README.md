@@ -20,7 +20,7 @@
 |035|[Search Insert Position][035in]|Easy|二分搜索|[description][035out]|
 |039|[Combination-Sum][039in]|Medium|DFS|[description][039out]|
 |040|[Combination Sum II][040in]|Medium|DFS|[description][040out]|
-
+|046|[Permutations][046in]|Medium|DFS|[description][046out]|
 
 [001in]:  001-Two-Sum
 [001out]: https://leetcode.com/problems/two-sum/description/
@@ -54,3 +54,6 @@
 [039out]: https://leetcode.com/problems/039-Combination-Sum/description/
 [040in]:  040-Combination-Sum-II
 [040out]: https://leetcode.com/problems/040-Combination-Sum-II/description/
+[046in]:  046-Permutations
+[046out]: https://leetcode.com/problems/046-Permutations/description/
+
