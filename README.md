@@ -58,5 +58,5 @@
 [046in]:  046-Permutations
 [046out]: https://leetcode.com/problems/046-Permutations/description/
 [047in]:  047-Permutations-II
-[047out]: https://leetcode.com/problems/047-Permutations-ii/description/
+[047out]: https://leetcode.com/problems/permutations/description/
 
