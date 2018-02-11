@@ -56,7 +56,7 @@
 [040in]:  040-Combination-Sum-II
 [040out]: https://leetcode.com/problems/040-Combination-Sum-ii/description/
 [046in]:  046-Permutations
-[046out]: https://leetcode.com/problems/046-Permutations/description/
+[046out]: https://leetcode.com/problems/permutations/description/
 [047in]:  047-Permutations-II
-[047out]: https://leetcode.com/problems/permutations/description/
+[047out]: https://leetcode.com/problems/permutations-ii/description/
 
