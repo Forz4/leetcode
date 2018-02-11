@@ -6,6 +6,7 @@
 |:-:|:--|:--|---|:-:|
 |001|[Two Sum][001in]|Easy|哈希表,暴力搜索|[description][001out]|
 |002|[Add Two Numbers][002in]|Medium|链表|[description][002out]|
+|003|[Longest Substring Without Repeating Characters][003in]|Medium|滑动窗口|[description][003out]
 |005|[Longest Palindromic Substring][005in]|Medium|暴力搜索,动态规划|[description][005out]|
 |007|[Reverse Integer][007in]|Easy|无|[description][007out]|
 |009|[Palindrome Number][009in]|Easy|无|[description][009out]|
@@ -27,6 +28,8 @@
 [001out]: https://leetcode.com/problems/two-sum/description/
 [002in]:  002-Add-Two-Numbers
 [002out]: https://leetcode.com/problems/add-two-numbers/description/
+[003in]:  003-Longest-Substring-Without-Repeating-Characters
+[003out]: https://leetcode.com/problems/Longest-Substring-Without-Repeating-Characters/description/
 [005in]:  005-Longest-Palindromic-Substring
 [005out]: https://leetcode.com/problems/Longest-Palindromic-Substring/description/
 [007in]:  007-Reverse-Integer
