@@ -53,10 +53,10 @@
 [035out]: https://leetcode.com/problems/035-Search-Insert-Position/description/
 [039in]:  039-Combination-Sum
 [039out]: https://leetcode.com/problems/039-Combination-Sum/description/
-[040in]:  040-Combination-Sum-II
-[040out]: https://leetcode.com/problems/040-Combination-Sum-II/description/
+[040in]:  040-Combination-Sum-ii
+[040out]: https://leetcode.com/problems/040-Combination-Sum-ii/description/
 [046in]:  046-Permutations
 [046out]: https://leetcode.com/problems/046-Permutations/description/
-[047in]:  047-Permutations-II
-[047out]: https://leetcode.com/problems/047-Permutations-II/description/
+[047in]:  047-Permutations-ii
+[047out]: https://leetcode.com/problems/047-Permutations-ii/description/
 
