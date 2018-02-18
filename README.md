@@ -8,6 +8,7 @@
 |002|[Add Two Numbers][002in]|Medium|链表|[description][002out]|
 |003|[Longest Substring Without Repeating Characters][003in]|Medium|滑动窗口|[description][003out]
 |005|[Longest Palindromic Substring][005in]|Medium|暴力搜索,动态规划|[description][005out]|
+|006|[ZigZag Conversion][006in]|Medium|无|[description][006out]|
 |007|[Reverse Integer][007in]|Easy|无|[description][007out]|
 |009|[Palindrome Number][009in]|Easy|无|[description][009out]|
 |014|[Longest Common Prefix][014in]|Easy|链表|[description][014out]|
@@ -34,6 +35,8 @@
 [005out]: https://leetcode.com/problems/Longest-Palindromic-Substring/description/
 [007in]:  007-Reverse-Integer
 [007out]: https://leetcode.com/problems/Reverse-Integer/description/
+[006in]:  006-ZigZag-Conversion
+[006out]: https://leetcode.com/problems/ZigZag-Conversion/description/
 [009in]:  009-Palindrome-Number
 [009out]: https://leetcode.com/problems/Palindrome-Number/description/
 [014in]:  014-Longest-Common-Prefix
