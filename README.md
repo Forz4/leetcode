@@ -25,6 +25,7 @@
 |040|[Combination Sum II][040in]|Medium|DFS|[description][040out]|
 |046|[Permutations][046in]|Medium|DFS|[description][046out]|
 |047|[Permutations II][047in]|Medium|DFS|[description][047out]|
+|053|[Maximum Subarray][053in]|Easy|特殊|[description][053out]|
 
 [001in]:  001-Two-Sum
 [001out]: https://leetcode.com/problems/two-sum/description/
@@ -68,4 +69,5 @@
 [046out]: https://leetcode.com/problems/permutations/description/
 [047in]:  047-Permutations-II
 [047out]: https://leetcode.com/problems/permutations-ii/description/
-
+[053in]:  053-Maximum-Subarray
+[053out]: https://leetcode.com/problems/Maximum-Subarray/description/
