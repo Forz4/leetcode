@@ -26,6 +26,7 @@
 |046|[Permutations][046in]|Medium|DFS|[description][046out]|
 |047|[Permutations II][047in]|Medium|DFS|[description][047out]|
 |053|[Maximum Subarray][053in]|Easy|特殊|[description][053out]|
+|058|[Length of Last Word][058in]|Easy||[description][058out]|
 
 [001in]:  001-Two-Sum
 [001out]: https://leetcode.com/problems/two-sum/description/
@@ -71,3 +72,5 @@
 [047out]: https://leetcode.com/problems/permutations-ii/description/
 [053in]:  053-Maximum-Subarray
 [053out]: https://leetcode.com/problems/Maximum-Subarray/description/
+[058in]:  Length-of-Last-Word
+[058out]: https://leetcode.com/problems/Length-of-Last-Word/description/
