@@ -26,6 +26,7 @@
 |046|[Permutations][046in]|Medium|DFS|[description][046out]|
 |047|[Permutations II][047in]|Medium|DFS|[description][047out]|
 |053|[Maximum Subarray][053in]|Easy|特殊|[description][053out]|
+|055|[Jump Game][055in]|Medium||[description][055out]|
 |058|[Length of Last Word][058in]|Easy||[description][058out]|
 |066|[Plus One][066in]|Easy||[description][066out]|
 
@@ -73,6 +74,8 @@
 [047out]: https://leetcode.com/problems/permutations-ii/description/
 [053in]:  053-Maximum-Subarray
 [053out]: https://leetcode.com/problems/Maximum-Subarray/description/
+[055in]:  055-Jump-Game
+[055out]: https://leetcode.com/problems/Jump-Game/description/
 [058in]:  Length-of-Last-Word
 [058out]: https://leetcode.com/problems/Length-of-Last-Word/description/
 [066in]:  066-Plus-One
