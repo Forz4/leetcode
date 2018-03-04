@@ -30,6 +30,7 @@
 |056|[Merge Intervals][056in]|Medium||[description][056out]|
 |058|[Length of Last Word][058in]|Easy||[description][058out]|
 |066|[Plus One][066in]|Easy||[description][066out]|
+|078|[Subset][078in]|Medium|DFS|[description][078out]|
 |079|[Word Search][079in]|Medium|DFS|[description][079out]|
 |100|[Same Tree][100in]|Medium|DFS|[description][100out]|
 
@@ -85,6 +86,8 @@
 [058out]: https://leetcode.com/problems/Length-of-Last-Word/description/
 [066in]:  066-Plus-One
 [066out]: https://leetcode.com/problems/Plus-One/description/
+[078in]:  078-Subset
+[078out]: https://leetcode.com/problems/Subset/description/
 [079in]:  079-Word-Search
 [079out]: https://leetcode.com/problems/Word-Search/description/
 [100in]:  100-Same-Tree
