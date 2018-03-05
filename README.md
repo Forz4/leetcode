@@ -32,6 +32,7 @@
 |066|[Plus One][066in]|Easy||[description][066out]|
 |078|[Subsets][078in]|Medium|DFS|[description][078out]|
 |079|[Word Search][079in]|Medium|DFS|[description][079out]|
+|086|[Partition List][086in]|Medium|链表|[description][086out]|
 |090|[Subsets ii][090in]|Medium|DFS|[description][090out]|
 |100|[Same Tree][100in]|Medium|DFS|[description][100out]|
 
@@ -93,5 +94,7 @@
 [079out]: https://leetcode.com/problems/Word-Search/description/
 [090in]:  090-Subsets-ii
 [090out]: https://leetcode.com/problems/Subsets-ii/description/
+[086in]:  086-Partition-List
+[086out]: https://leetcode.com/problems/Partition-List/description/
 [100in]:  100-Same-Tree
 [100out]: https://leetcode.com/problems/Same-Tree/description/
